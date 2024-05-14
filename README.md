@@ -21,6 +21,9 @@ Check out my certifications on Platzi, where I've broadened my knowledge in mobi
  ### Connect with me
  [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
+ [![SVG](https://github.com/DeveloperJGV/DeveloperJGV/raw/main/Gmail-Dark.svg)](mailto:developer.jgv@gmail.com)
+
+
 
 <!--
 **DeveloperJGV/DeveloperJGV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
