@@ -5,7 +5,7 @@
 ## Mobile App Developer | Native Development Specialist 📱
 
 I'm a passionate advocate for the mobile ecosystem, specializing in native app development for Android and iOS. I also enjoy crafting games using Construct 3.
-I helped make this game HOMOZAPPING! You can play it [here](https://arsgames.net/recursos/videojuegos-radicales/homozapping/).
+I helped make this game **HOMOZAPPING**! You can play it [here](https://arsgames.net/recursos/videojuegos-radicales/homozapping/).
 
 
 ### Lifelong Learning 📚
