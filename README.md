@@ -13,7 +13,7 @@ I'm an avid reader and learner, always on the lookout for new things. Here, I'll
 I use artificial intelligence to create unique images that I share on my Instagram account. Don't miss out!
 
 ### Certifications 🏅
-Check out my certifications on Platzi, where I've broadened my knowledge in mobile development, leadership, artificial intelligence, and beyond.
+My Platzi certifications are a testament to my dedication in mobile development, leadership, and artificial intelligence. Beyond technical skills, I've embraced courses on feedback dynamics, enhancing my ability to engage and collaborate effectively. Keeping abreast of the latest Android and Apple policies is also part of my routine, ensuring my work stays relevant and compliant.
 
 ### About Me 
 
