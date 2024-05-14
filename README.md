@@ -13,14 +13,6 @@ I use artificial intelligence to create unique images that I share on my Instagr
 ### Certifications 🏅
 Check out my certifications on Platzi, where I've broadened my knowledge in mobile development, leadership, artificial intelligence, and beyond.
 
----
-
-🔗 **Connect with Me**
-- Instagram
-- LinkedIn
-
-
-
 
 <!--
 **DeveloperJGV/DeveloperJGV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
