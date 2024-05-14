@@ -20,6 +20,7 @@ Check out my certifications on Platzi, where I've broadened my knowledge in mobi
 
  ### Connect with me
  [<img src="https://github.com/DeveloperJGV/DeveloperJGV/raw/main/gmail-svgrepo-com.svg" width="50" height="50">](mailto:developer.jgv@gmail.com)
+ [<img src="https://github.com/DeveloperJGV/DeveloperJGV/raw/main/Instagram.svg" width="50" height="50">](https://www.instagram.com/iartbydio/)
 
 
 
