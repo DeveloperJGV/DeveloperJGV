@@ -15,6 +15,9 @@ I use artificial intelligence to create unique images that I share on my Instagr
 ### Certifications 🏅
 Check out my certifications on Platzi, where I've broadened my knowledge in mobile development, leadership, artificial intelligence, and beyond.
 
+### About Me 
+ I love 🐶s and Xbox Gaming (GamerTag: Dio Drachma)
+
 
 <!--
 **DeveloperJGV/DeveloperJGV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
