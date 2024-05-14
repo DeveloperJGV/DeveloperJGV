@@ -20,13 +20,12 @@ My Platzi certifications are a testament to my dedication in mobile development,
 ### About Me 
 
 - 🐶 **Animal Lover**: I have a special place in my heart for dogs.
-- 🎮 **Gaming Enthusiast**: My Xbox GamerTag is Dio Drachma, and I love immersing myself in different gaming worlds.
+- 🎮 **Gaming Enthusiast**: My Xbox GamerTag is Dio Drachma
 - 🌐 **Global Citizen**: Engaging with a diverse online community across various platforms.
 - 🏌️‍♂️ **Sports Fan**: I enjoy watching a variety of sports, from the classic Golf and Boxing to the unique thrill of marble races.
-- 🎥 **Cinema Buff**: "Forrest Gump" is my all-time favorite movie, a classic that never gets old.
+- 🎥 **Cinema Buff**: "Forrest Gump" is my all-time favorite movie
 - 📺 **Anime & Animation Aficionado**: I love diving into the imaginative worlds of anime and animation films.
-- 📚 **Comic & Manga Connoisseur**: From superheros saga to captivating manga series, I'm always thrilled to read and collect comics and manga.
-
+- 📚 **Comic & Manga Connoisseur**: From superheros saga to captivating manga series.
 
 
  ### Connect with me
