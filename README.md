@@ -18,6 +18,9 @@ Check out my certifications on Platzi, where I've broadened my knowledge in mobi
 ### About Me 
  I love 🐶s and Xbox Gaming (GamerTag: Dio Drachma)
 
+ ### Connect with me
+ [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+
 
 <!--
 **DeveloperJGV/DeveloperJGV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
