@@ -22,6 +22,8 @@ Check out my certifications on Platzi, where I've broadened my knowledge in mobi
  [<img src="https://github.com/DeveloperJGV/DeveloperJGV/raw/main/gmail-svgrepo-com.svg" width="50" height="50">](mailto:developer.jgv@gmail.com)
  [<img src="https://github.com/DeveloperJGV/DeveloperJGV/raw/main/Instagram.svg" width="50" height="50">](https://www.instagram.com/iartbydio/)
  [<img src="https://github.com/DeveloperJGV/DeveloperJGV/raw/main/LinkedIn.svg" width="50" height="50">](https://www.linkedin.com/in/javier-gonz%C3%A1lez-viveros-dev/)
+ [<img src="https://github.com/DeveloperJGV/DeveloperJGV/raw/main/Discord.svg" width="50" height="50">](https://discord.com/channels/@me/307261730336014354
+)
 
 
 
