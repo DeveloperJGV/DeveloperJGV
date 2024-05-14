@@ -1,5 +1,7 @@
 # Hello, I'm Javier González Viveros 👋
 
+![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white) 
+
 ## Mobile App Developer | Native Development Specialist 📱
 
 I'm a passionate advocate for the mobile ecosystem, specializing in native app development for Android and iOS. I also enjoy crafting games using Construct 3.
