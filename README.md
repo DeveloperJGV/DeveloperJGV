@@ -19,9 +19,6 @@ Check out my certifications on Platzi, where I've broadened my knowledge in mobi
  I love 🐶s and Xbox Gaming (GamerTag: Dio Drachma)
 
  ### Connect with me
- [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
-
- [![SVG](https://github.com/DeveloperJGV/DeveloperJGV/raw/main/Gmail-Dark.svg)](mailto:developer.jgv@gmail.com)
  [<img src="https://github.com/DeveloperJGV/DeveloperJGV/raw/main/Gmail-Dark.svg" width="50" height="50">](mailto:developer.jgv@gmail.com)
 
 
